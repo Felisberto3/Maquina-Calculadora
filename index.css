@@ -19,7 +19,7 @@ body {
 .container {
   /* width: 27%; */
   max-width: 400px;
-  height: 70vh;
+  height: 80vh;
   border-radius: 10px;
 
   margin: auto;
@@ -41,9 +41,8 @@ body {
   outline: none;
   border: none;
   font-size: 40px;
-
-
 }
+
 
 .btns {
   display: grid;
